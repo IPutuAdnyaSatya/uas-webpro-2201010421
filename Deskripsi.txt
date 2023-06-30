@@ -1,0 +1,4 @@
+Ide projek yang saya buat tentang Pariwisata yang ada di bali
+
+Deskripsi projek:
+Projek yang saya buat tentang objek wisata yang ada di bali ,di dalam web ini terdapat menu Home untuk melihat objek- objek wisata yang ada di bali dan ada menu akomodasi untuk memboking tempat dan untuk memboking penyewaan mobil dan di menu pariwisata dan budaya terdapat deskripsi tentang obejek wisata tersebut.
